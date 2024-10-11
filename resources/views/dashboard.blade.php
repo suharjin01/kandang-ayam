@@ -14,7 +14,7 @@
                 </svg>
                 <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Suhu</h5>
                 <div class="flex mt-4 md:mt-6">
-                    <p class="text-content2">21° C</p>
+                    <p class="text-content2" id="suhu">0° C</p>
                 </div>
             </div>
         </div>
@@ -30,7 +30,7 @@
                 </svg>
                 <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Kelembapan</h5>
                 <div class="flex mt-4 md:mt-6">
-                    <p class="text-content2">21 %</p>
+                    <p class="text-content2" id="kelembapan">0 %</p>
                 </div>
             </div>
         </div>
